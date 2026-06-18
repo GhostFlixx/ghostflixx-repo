@@ -1,0 +1,12 @@
+{
+  "builds": [
+    {
+      "name": "GhostFlix Lite",
+      "version": "1.0",
+      "url": "https://ghostflixx.github.io/ghostflixx-repo/builds/GhostFlix+Lite.zip",
+      "gui": "https://ghostflixx.github.io/ghostflixx-repo/builds/GhostFlix%252BLite_guisettings.zip",
+      "icon": "https://ghostflixx.github.io/ghostflixx-repo/images/icon.png",
+      "fanart": "https://ghostflixx.github.io/ghostflixx-repo/images/fanart.jpg"
+    }
+  ]
+}
